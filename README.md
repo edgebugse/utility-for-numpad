@@ -1,3 +1,8 @@
+![Fact](https://img.shields.io/badge/FACT-MADE%20BY%20AI-red?style=for-the-badge) 
+![Discontinued](https://img.shields.io/badge/STATUS-DISCONTINUED-yellow?style=for-the-badge)
+
+---
+
 keybind:
 
 numpad0 - exit this programm
